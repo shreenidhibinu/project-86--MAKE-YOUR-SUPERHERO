@@ -1,0 +1,47 @@
+       
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+	color: rgb(0, 135, 253);
+ }
+h3
+{
+	display: inline-block;
+}
+span
+{
+	color: black;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+#img_faces{
+	height: 300px;
+ background-color: yellow;	
+}
+#spiderman-face{
+	width: 150px;	
+   }
+   .body_background{
+	   background-image:url("avenger_bg.jpg") ;
+   }
